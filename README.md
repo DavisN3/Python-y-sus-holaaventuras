@@ -84,4 +84,4 @@ Pasos para ejecutar el "Hola Mundo" en VS Code:
 
    ![image](https://github.com/user-attachments/assets/1b77c033-fcce-49b5-aebd-797d60472234)
 
-# ¡Eso es todo! Espero que esta guía básica alimente tu hambre de curiosidad y te lleve a expandir tus conocimientos en el bello mundo de programación.🌹
+# ¡Eso es todo! Espero que esta guía básica alimente tu hambre de tu curiosidad y te lleve a expandir tus conocimientos en el bello mundo de la programación.🌹
