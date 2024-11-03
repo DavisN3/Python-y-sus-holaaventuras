@@ -11,3 +11,4 @@ El presente repositorio es una guía sobre cómo ejecutar el mítico "Hola mundo
 - Pasos:
 1. Abre el block de notas.
    ![image](https://github.com/user-attachments/assets/8b52dc32-91d9-4ed8-a1c3-ecdd838b8398)
+2. Está muy vacío, ¿no lo crees? qué tal si pegamos el siguiente código para que no se vea tan aburrido.
