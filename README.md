@@ -6,6 +6,11 @@ El presente repositorio es una guía sobre cómo ejecutar el mítico "Hola mundo
 - Verifica que tengas instalado VS Code en tu dispositivo. En caso de no tenerlo lo puedes descargar en: https://code.visualstudio.com/
 - Actitud y ganas por aprender.🚀
 
+## Contenido:
+- "Hola mundo" en el block de notas 💥
+- "Hola mundo" en el intérprete de Phyton 🤯
+- "Hola mundo" en VS Code 🤓
+
 ## "Hola mundo" en el block de notas 💥
 - Bueno, decidíste aventurarte a la programación básica en python, ese es un gran paso...
 - Pasos:
@@ -62,3 +67,21 @@ Pasos para ejecutar el intérprete:
 ## "Hola mundo" en VS Code 🤓
 
 ### ¿Qué es VS Code?
+- VS Code es un editor de código dónde puedes escribir y editar código de manera gratuita en varios lenguajes como lo son Python, JavaScript, C++, entre otros; ofreciendo beneficios como son la capacidad de añadir diferentes extensiones para poder realizar diferente tipos de trabajos.
+
+Pasos para ejecutar el "Hola Mundo" en VS Code:
+1. Abrir la aplicación.
+2. Crear una nueva carpeta dónde deseas guardar el archivo.
+3. Copiar e insertar la siguiente línea de código:
+   ```python
+   if __name__ == "__main__":
+    print("Hola mundo")
+4. Darle a ejecutar.
+   
+   ![image](https://github.com/user-attachments/assets/6b0a1b94-5eaa-4d26-9167-272bcc73f9cb)
+
+5.  ¡Felicidades! Has programado tu primer "Hola mundo" en VS Code.
+
+   ![image](https://github.com/user-attachments/assets/1b77c033-fcce-49b5-aebd-797d60472234)
+
+# ¡Eso es todo! Espero que esta guía básica alimente tu hambre de curiosidad y te lleve a expandir tus conocimientos en el bello mundo de programación.🌹
