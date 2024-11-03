@@ -38,3 +38,27 @@ if __name__ == "__main__":
 8. ¡Felicidades! Has programado tu primer "Hola mundo" en el block de notas.
 ![image](https://github.com/user-attachments/assets/1bb2366b-955a-4791-88a5-e36f2fc29873)
 
+## "Hola mundo" en el intérprete de Phyton 🤯
+
+### ¿Qué es el intérprete de Phyton?
+- El intérprete de Python se refiere a un programa que ejecuta el código escrito en Python; se diferencia a otros lenguajes en que Python no requiere compilar primero los archivos, Python directamente lo ejecúta. Funciona de la siguiente manera:
+  1. Escribes tu código: Das las instrucciones al intérprete a cerca de lo que tú quieres hacer.
+  2. Leer: El intérprete pasa tu código a algo que la máquina pueda entender.
+  3. Ejecución: La máquina ejecuta tus instrucciones e imprime el resultado.
+   
+Pasos para ejecutar el intérprete:
+  1. Abrimos la consola.
+  2. Escribimos "python" y damos enter.
+     
+     ![image](https://github.com/user-attachments/assets/db4c879f-2daa-4949-abe9-b0a846f8a7c8)
+     
+  3. Escribimos solamente lo siguiente en la consola:
+     ```python
+     print("Hola mundo")
+   4. Le damos enter, quedando de la siguiente manera:
+      
+      ![image](https://github.com/user-attachments/assets/257a6a31-4c69-4b41-a867-aaf68b22ab25)
+      
+## "Hola mundo" en VS Code 🤓
+
+### ¿Qué es VS Code?
